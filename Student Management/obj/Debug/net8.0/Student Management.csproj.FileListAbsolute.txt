@@ -1,0 +1,37 @@
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\bin\Debug\net8.0\appsettings.json
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\bin\Debug\net8.0\Student Management.staticwebassets.endpoints.json
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\bin\Debug\net8.0\Student Management.exe
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\bin\Debug\net8.0\Student Management.deps.json
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\bin\Debug\net8.0\Student Management.runtimeconfig.json
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\bin\Debug\net8.0\Student Management.dll
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\bin\Debug\net8.0\Student Management.pdb
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\Student Management.csproj.AssemblyReference.cache
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\Student Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\Student Management.AssemblyInfoInputs.cache
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\Student Management.AssemblyInfo.cs
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\Student Management.csproj.CoreCompileInputs.cache
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\Student Management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\Student Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\Student Management.sourcelink.json
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\scopedcss\bundle\Student Management.styles.css
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\staticwebassets\msbuild.Student Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\staticwebassets\msbuild.Student Management.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Student Management.props
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Student Management.props
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Student Management.props
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\Student .FCEED30C.Up2Date
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\Student Management.dll
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\refint\Student Management.dll
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\Student Management.pdb
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\Student Management.genruntimeconfig.cache
+C:\Users\Monika Sasi Kala\Documents\Repos\Student Management\Student Management\obj\Debug\net8.0\ref\Student Management.dll
